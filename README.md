@@ -1,8 +1,8 @@
 # Superstore Sales, Profit & Discount Analysis
 
-**Author:** Shubhangi Rahul Badgujar  
-**Role:** Data Analytics Intern  
-**Milestone:** Day 30 — Project 1 Finalization  
+Author:Shubhangi Rahul Badgujar  
+Role: Data Analytics Intern  
+Milestone: Day 30 — Project 1 Finalization  
 
 ---
 
@@ -44,7 +44,7 @@ Superstore-Sales-Analytics/
 ├── README.md
 ├── data/
 │   ├── raw/
-│   │   └── Sample - Superstore (1).csv
+│   │   └── Sample - Superstore .csv
 │   └── cleaned/
 │       ├── Cleaned_Superstore.csv
 │       └── Analysis_Ready_Superstore.csv
@@ -54,12 +54,12 @@ Superstore-Sales-Analytics/
 ├── scripts/
 │   └── superstore_analysis.py
 ├── dashboard/
-│   ├── dashboard.pbix
-│   └── dashboard_preview.png
+│   ├── dashboard_overview.png
+│   └── superstore_dashboard.pbix
 ├── report/
-│   └── Shubhangi_Rahul_Badgujar_Project_1_Report.pdf
+│   └── Project_1_Report.md
 └── presentation/
-    └── shubhangi_superstore_presentation.html
+    └── superstore_presentation.html
 ```
 
 ---
